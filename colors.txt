@@ -1,0 +1,10 @@
+Headers: b9d36c
+First Section: 88b4f3
+Second Section: e6c178
+Third Section: 54c3bb
+Fourth Section: fbbca6
+Footer: be9df1
+
+Light Pink: cfbaf0
+
+cfbaf0
