@@ -3624,21 +3624,21 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #88b4f3;
+		background-color: #f8c1ac;
 		margin: 6.5em 0;
 		position: relative;
 	}
 
 		.wrapper:before, .wrapper:after {
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2388b4f3%3B' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23f8c1ac%3B' /%3E%3C/svg%3E");
 		}
 
 		.wrapper:before {
-			box-shadow: inset 0 -1px 0 0 #88b4f3, 0 1px 0 0 #88b4f3;
+			box-shadow: inset 0 -1px 0 0 #f8c1ac, 0 1px 0 0 #f8c1ac;
 		}
 
 		.wrapper:after {
-			box-shadow: inset 0 -1px 0 0 #88b4f3, 0 1px 0 0 #88b4f3;
+			box-shadow: inset 0 -1px 0 0 #f8c1ac, 0 1px 0 0 #f8c1ac;
 		}
 
 		.wrapper:before, .wrapper:after {
@@ -3766,19 +3766,19 @@ input, select, textarea {
 			}
 
 		.wrapper.spotlight {
-			background-color: #88b4f3;
+			background-color: #f8c1ac;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2388b4f3%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23f8c1ac%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.spotlight:before {
-				box-shadow: inset 0 -1px 0 0 #88b4f3, 0 1px 0 0 #88b4f3;
+				box-shadow: inset 0 -1px 0 0 #f8c1ac, 0 1px 0 0 #f8c1ac;
 			}
 
 			.wrapper.spotlight:after {
-				box-shadow: inset 0 -1px 0 0 #88b4f3, 0 1px 0 0 #88b4f3;
+				box-shadow: inset 0 -1px 0 0 #f8c1ac, 0 1px 0 0 #f8c1ac;
 			}
 
 			.wrapper.spotlight .inner {
@@ -3843,19 +3843,19 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style3 {
-				background-color: #fbbca6;
+				background-color: #88b4f3;
 			}
 
 				.wrapper.spotlight.style3:before, .wrapper.spotlight.style3:after {
-					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23fbbca6%3B' /%3E%3C/svg%3E");
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2388b4f3%3B' /%3E%3C/svg%3E");
 				}
 
 				.wrapper.spotlight.style3:before {
-					box-shadow: inset 0 -1px 0 0 #fbbca6, 0 1px 0 0 #fbbca6;
+					box-shadow: inset 0 -1px 0 0 #88b4f3, 0 1px 0 0 #88b4f3;
 				}
 
 				.wrapper.spotlight.style3:after {
-					box-shadow: inset 0 -1px 0 0 #fbbca6, 0 1px 0 0 #fbbca6;
+					box-shadow: inset 0 -1px 0 0 #88b4f3, 0 1px 0 0 #88b4f3;
 				}
 
 			.wrapper.spotlight.style4 {
@@ -3871,7 +3871,7 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style4:after {
-					box-shadow: inset 0 -1px 0 0 #e6c178, 0 1px 0 0 #fbbca6;
+					box-shadow: inset 0 -1px 0 0 #e6c178, 0 1px 0 0 #f8c1ac;
 				}
 
 			.wrapper.spotlight.style5 {
